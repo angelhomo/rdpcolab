@@ -1,2 +1,0 @@
-# rdpcolab
-RDP para Colab
